@@ -45,7 +45,7 @@ SRC/
 2. Navigate to the demo you want to run.  
     Example:
 
-    `cd SRC/module-2/demo-3-retry-dlq`
+    `cd module-2/demo-3-retry-dlq`
 
 3. Follow the `README.md` inside that demo folder for setup and execution steps.
 
@@ -55,13 +55,13 @@ SRC/
 
 - **Module 1**
 
-  - Demo: Glue Crawler for Schema Discovery
+  - [Demo: Glue Crawler for Schema Discovery](./module-1/demo-glue-crawler-schema-discovery/)
 
 - **Module 2**
 
-  - Demo 3: Lambda Retries and Dead-Letter Queues
-  - Demo 4: Idempotent Pipeline with Lambda
-  - Demo 5: Deduplication at Scale with AWS Glue
+  - [Demo 3: Lambda Retries and Dead-Letter Queues](./module-2/demo-3-retry-dlq/)
+  - [Demo 4: Idempotent Pipeline with Lambda](./module-2/demo-4-idempotent-pipeline/)
+  - [Demo 5: Deduplication at Scale with AWS Glue](./module-2/demo-5-glue-dedup/)
 
 ---
 
